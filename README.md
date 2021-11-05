@@ -2,9 +2,15 @@
 A DevOps Consultant with more than 15 years of experience, working for global companies and helping the integration with developers and infrastructure teams.
 
 #### 🧰 Toolbox 
-
-<img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" /> <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" /> <img width="80" height="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /> <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" /> <img width="80" height="80" src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" />
-
+- AWS
+- GCP
+- CircleCI
+- GitHub
+- GitLab
+- Jenkins
+- Docker
+- Kubernetes
+- Terraform
 ---
 
 #### &#x1f4c8; My GitHub Stats
