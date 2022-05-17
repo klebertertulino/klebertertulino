@@ -15,9 +15,3 @@ I'm Kleber Tertulino from Brazil 🇧🇷, working as a DevOps Consultant for gl
 - Docker
 - Kubernetes
 - Terraform
----
-
-#### 📈 My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klebertertulino&hide=scss,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=klebertertulino&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
