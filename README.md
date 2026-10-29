@@ -50,8 +50,13 @@ With over 7 years of experience in cloud-native infrastructure, I’ve worked ac
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)  
 
+## Side projects
+
+- **[Radar](https://radar.klebertertulino.com/)** — cloud provider status in one place, a worker-polled status board.
+
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kleber%20Tertulino-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/klebertertulino)
 [![Website](https://img.shields.io/badge/Portfolio-klebertertulino.com-1a1a1a?style=flat-square&logo=google-chrome&logoColor=white)](https://klebertertulino.com)
+[![Radar](https://img.shields.io/badge/Radar-cloud%20status-0F766E?style=flat-square&logo=statuspage&logoColor=white)](https://radar.klebertertulino.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-klebertertulino-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/klebertertulino)
