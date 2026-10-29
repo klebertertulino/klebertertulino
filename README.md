@@ -1,62 +1,61 @@
-# Kleber Tertulino — DevOps, Platform & SRE Engineer
+<div align="center">
 
-With over 7 years of experience in cloud-native infrastructure, I’ve worked across startups and global companies supporting teams in delivery, cost control, and reliability. My focus is bridging development and operations by designing systems that balance speed, security, and stability.  
+# Kleber Tertulino
 
-## What I do
+### Senior Platform Engineer · DevOps · SRE
 
-- Design and manage cloud environments on AWS and GCP  
-- Build infrastructure with Terraform, AWS CDK, and Ansible  
-- Maintain CI/CD pipelines with GitHub Actions and GitLab CI  
-- Run container workloads on Docker, ECS, EKS, and Kubernetes  
-- Set up observability with CloudWatch, Prometheus, and Grafana  
-- Optimize cloud costs, including replacing Datadog with AWS Lambda + CloudWatch  
-- Handle daily operations: incident response, troubleshooting, and on-call support  
+I build the platforms engineering teams ship on: self-hosted CI at scale, infrastructure as code and observability, focused on reliability, developer productivity and cloud cost.
 
-## How I do it
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/klebertertulino) [![Website](https://img.shields.io/badge/klebertertulino.com-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://klebertertulino.com) [![Radar](https://img.shields.io/badge/Radar-0F766E?style=for-the-badge&logo=statuspage&logoColor=white)](https://radar.klebertertulino.com/)
 
-- **Infrastructure as Code** → Terraform, AWS CDK, Ansible  
-- **Continuous Delivery** → GitHub Actions, GitLab CI  
-- **Container Platforms** → Docker, ECS, EKS, Kubernetes  
-- **Observability & Monitoring** → CloudWatch, Prometheus, Grafana 
-- **Automation & Tooling** → Python, Node.js, n8n 
-- **Engineering Principles** → metrics first, small changes, continuous improvement  
+`📍 São Paulo, Brazil` &nbsp; `🌎 Remote with US, Canada & EU teams since 2021` &nbsp; `🗣️ English · Portuguese`
 
-## My toolbox  
+</div>
 
-**🌩️ Cloud & IaC**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)  
+---
 
-**🚀 CI/CD & Automation**  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-0A96B1?style=flat-square&logo=n8n&logoColor=white)  
+### 👋 About
 
-**📦 Containers & Orchestration**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
+- **20+ years** in technology, **7+** in cloud infrastructure, DevOps, Platform Engineering and SRE
+- Currently leading **Developer Experience** for **140+ developers** across **~255 repositories**
+- Building self-hosted CI on Kubernetes, infrastructure as code on AWS and GCP, and cost-aware observability
+- Full experience on [LinkedIn](https://linkedin.com/in/klebertertulino)
 
-**📊 Observability**  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)  
+### 📈 Impact
 
-**💻 Languages & Scripting**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)  
+<table>
+  <tr>
+    <td align="center" width="33%"><h3>-60%</h3>CI runner cost<br><sub>$28.3K → $11.4K/month · 461K minutes, 73K jobs</sub></td>
+    <td align="center" width="33%"><h3>21 → 180</h3>EKS nodes on demand<br><sub>ARC + Karpenter · ~142 → 1,943 pods</sub></td>
+    <td align="center" width="33%"><h3>40h → 8h</h3>AI solution deploys<br><sub>Automated with AWS CDK</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><h3>-20%</h3>Monitoring cost<br><sub>Datadog → CloudWatch + Python Lambdas</sub></td>
+    <td align="center"><h3>-96%</h3>Route 53 migration time<br><sub>250 → 10 minutes with Python</sub></td>
+    <td align="center"><h3>-14% · 2x</h3>Cloud cost · deploy speed<br><sub>Terraform + custom Python tooling</sub></td>
+  </tr>
+</table>
 
-## Side projects
+### 🧰 Stack
 
-- **[Radar](https://radar.klebertertulino.com/)** — cloud provider status in one place, a worker-polled status board.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,kubernetes,docker,githubactions,gitlab,jenkins,prometheus,grafana,python,ts,nodejs,bash,postgres,mysql,mongodb,redis,dynamodb&perline=10" alt="Tech stack" />
+</p>
 
-## Let's connect
+| Area | Tools |
+|---|---|
+| **☁️ Cloud** | AWS · GCP · DigitalOcean |
+| **🏗️ IaC** | Terraform · AWS CDK · CDK for Terraform · Ansible |
+| **☸️ Containers** | Kubernetes · Amazon EKS · Amazon ECS · Docker · Actions Runner Controller · Karpenter |
+| **🚀 CI/CD** | GitHub Actions · GitLab CI · CircleCI · Bitbucket Pipelines · Jenkins · GitOps |
+| **📊 Observability** | CloudWatch · CloudTrail · Prometheus · Grafana · Datadog · New Relic · Observe |
+| **💻 Languages** | Python · TypeScript · Node.js · Bash |
+| **🗄️ Data** | PostgreSQL · MySQL · MariaDB · MongoDB · DynamoDB · Redis |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kleber%20Tertulino-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/klebertertulino)
-[![Website](https://img.shields.io/badge/Portfolio-klebertertulino.com-1a1a1a?style=flat-square&logo=google-chrome&logoColor=white)](https://klebertertulino.com)
-[![Radar](https://img.shields.io/badge/Radar-cloud%20status-0F766E?style=flat-square&logo=statuspage&logoColor=white)](https://radar.klebertertulino.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-klebertertulino-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/klebertertulino)
+### 🛰️ Side projects
+
+**[Radar](https://radar.klebertertulino.com/)** — cloud provider status in one place, a worker-polled status board.
+
+### 🎓 Certification
+
+![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
