@@ -54,7 +54,9 @@ I build the platforms engineering teams ship on: self-hosted CI at scale, infras
 
 ### 🛰️ Side projects
 
-**[Radar](https://radar.klebertertulino.com/)** — cloud provider status in one place, a worker-polled status board.
+- **[Context](https://context.tertech.io)**: a Slack-first incident assistant. When an alert fires, it collects read-only evidence from AWS and GitHub and replies in the thread with a summary that cites its sources.
+- **[Radar](https://radar.klebertertulino.com/)**: cloud provider status in one place, a worker-polled status board.
+- **Lens**: a Go CLI that audits an AWS account with read-only credentials and writes a report based on the Well-Architected Framework.
 
 ### 🎓 Certification
 
